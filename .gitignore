@@ -63,3 +63,6 @@ simulation/
 timing/
 testbench/
 *_sim/
+
+# accept GitHub page image
+!clock_24_hr.jpg
